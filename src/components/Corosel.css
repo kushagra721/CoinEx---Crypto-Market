@@ -1,0 +1,30 @@
+
+.carouselItem21{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   cursor: pointer;
+   text-transform: uppercase;
+   color: white;
+}
+
+/* #curre{
+    height: 50;
+    display: flex;
+    align-items: center;
+} */
+
+.mainfile21{
+   height: 50%;
+   display: flex;
+   flex-direction: row;
+  
+
+   
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
